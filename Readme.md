@@ -743,6 +743,8 @@ is是对比地址,==是对比值
 * readlines   读取整个文件到一个迭代器以供我们遍历
 
 ## 28 Python2和3的区别
+
+[Python 2.7.x 与 Python 3.x 的主要区别](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html)
 推荐：[Python 2.7.x 与 Python 3.x 的主要差异](http://chenqx.github.io/2014/11/10/Key-differences-between-Python-2-7-x-and-Python-3-x/)
 
 ## 29 super init
